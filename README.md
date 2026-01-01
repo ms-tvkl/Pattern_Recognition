@@ -1,64 +1,31 @@
-## Homework 1:
-- Feature Extraction
-- Prediction Problems
-- Classification
-- Regression
-- Clustering
-- Fingerprint Recognition
-- Emotion Recognition
-- Gait Recognition
-- Activity Recognition
-- Object Recognition
-- Subspace Learning
-- Dimensionality Reduction
-- Differential Equations
-- Eigenvalues
-- Eigenvectors
-- Probability Theory
-- Multivariate Gaussian Distribution
-- Heat-map
+Homework 1
 
-## Homework 2:
-- Bayesian Inference
-- Prior & Posterior Probability
-- Likelihood Function
-- Monty Hall Problem
-- Minimum Distance Classifier
-- Optical Character Recognition
-- Parameter Estimation
-- Maximum Likelihood Estimation
-- Bayes Estimation
-- Biased Estimator
-- Estimator Variance
-- Mean Squared Error (MSE)
-- Maximum A Posteriori (MAP) Estimation
-- Confusion Matrix
-- ROC Curve
-- Skin Detection
+Features • Prediction • Classification • Regression • Clustering
+Recognition (fingerprint/emotion/gait/activity/object)
+Dimensionality reduction • Subspace learning
+Eigenvalues/eigenvectors • Differential equations
+Probability • Multivariate Gaussian • Heat-maps
 
-## Homework 3:
-- Density Estimation
-- Non-Parametric Methods
-- Histogram
-- Kernel Density Estimation
-- K-Nearest Neighbors
-- Principal Component Analysis (PCA)
-- Linear Discriminant Analysis (LDA)
-- Missing Features
-- Image Compression
-- Generative Models
-- Smoothing Parameter
-- Face Recognition
-- Linear Discriminant Functions (LDA)
-- K-Nearest Neighbor Classifier
-- Fisherfaces
+Homework 2
 
-## Homework 4:
-- Unsupervised Learning
-- K-Means Clustering
-- Hierarchical Clustering
-- Dendrogram
-- K-Medoids
-- Elbow Method
-- Purity Measure
-- Normalised Mutual Information (NMI)
+Bayesian inference • Prior/posterior • Likelihood
+Monty Hall
+Estimators: MLE • MAP • Bayes • bias • variance • MSE
+Minimum distance classifier • OCR
+Confusion matrix • ROC • Skin detection
+
+Homework 3
+
+Density estimation • Histograms • KDE
+k-NN (method & classifier)
+PCA • LDA • Fisherfaces
+Missing data • Image compression
+Generative models • Smoothing
+
+Homework 4
+
+Unsupervised learning
+k-Means • k-Medoids
+Hierarchical clustering • Dendrogram
+Elbow method
+Purity • NMI
